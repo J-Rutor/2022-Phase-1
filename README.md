@@ -62,10 +62,10 @@ We have also created small modular workshops for each section of MS Learn. **The
 
 ### Checklist :white_check_mark:
 
-- [ ] Week 1 (15 APR - 21 APR)
-  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
-  - [ ] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
-  - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
+- [X] Week 1 (15 APR - 21 APR)
+  - [X] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
+  - [X] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
+  - [X] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [ ] Week 2 (22 APR - 28 APR)
   - [ ] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
 - [ ] Week 3 (29 APR - 5 MAY)
@@ -128,5 +128,3 @@ As you go through and do these modules, you'll find that you need quite a few to
 
 * [ ] This is an empty checklist item
   - [x] This is a completed checklist item! you can complete checklist items by opening up this README file in edit mode, and putting an **X** character between the open square brackets.
-
--[X] Completed GitHub Workshop
