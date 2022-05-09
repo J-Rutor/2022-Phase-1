@@ -72,7 +72,7 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [X] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
   - [X] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] Week 4 (6 MAY - 12 MAY)
-  - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
+  - [X] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
   - [ ] [3. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/3.%20RESTful-API%20workshop)
   - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
   - [ ] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
