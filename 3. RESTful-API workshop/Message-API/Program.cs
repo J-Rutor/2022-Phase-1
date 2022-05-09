@@ -31,4 +31,6 @@ app.UseHttpLogging();
 
 app.MapControllers();
 
+app.MapGet("2022-nsmsa-phase-1-api.azurewebsites.net/api/message", () => "");
+
 app.Run();
