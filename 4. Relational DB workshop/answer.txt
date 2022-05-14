@@ -9,3 +9,14 @@ WHERE st.city = sc.city
 AND st.city != 'New York'
 
 ~~~Question 2~~~
+
+CREATE VIEW Student_Subjects
+AS
+SELECT st.student_name, sc.subject_name, sc.lecturer, sc.max_score
+FROM school AS sc JOIN student AS st
+ON st.school_id = sc.subject_id
+
+UPDATE Student_Subjects
+SET max_score = NULL
+WHERE  subject_name = 'Computer Science'
+OR max_score BETWEEN 100 AND 200
