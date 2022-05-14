@@ -1,6 +1,11 @@
 ~~~Question 1~~~
 
+CREATE VIEW Same_City
+AS
 SELECT sc.school_name, st.student_name, st.city
 FROM school AS sc JOIN student AS st
 ON sc.school_id = st.school_id
 WHERE st.city = sc.city
+
+
+~~~Question 2~~~
